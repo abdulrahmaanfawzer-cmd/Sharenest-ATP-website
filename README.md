@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sharenest — Community Borrowing Platform (static edition)
 
 Same prototype, rebuilt as **plain HTML, CSS and JavaScript**. No React, no Vite, no Node.js, no build step.
@@ -74,3 +75,6 @@ This site now reads and writes the "requests" board from Supabase instead of onl
 ## Adding a backend later
 
 Static hosting still works — call an API from `app.js` with `fetch`. On Cloudflare, Pages Functions (`/functions`) or a Worker gives you server-side code without a Node.js server. Verify membership and authorization on every server request; never trust a community ID sent by the frontend.
+=======
+# Sharenest-ATP-website
+>>>>>>> b76651f7956f8a5db2abd1acacd02db451f0071e
